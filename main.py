@@ -1,6 +1,4 @@
 import matplotlib.pyplot as plt
-import matplotlib
-from tkinter import * 
 from random import *
 import json
 
